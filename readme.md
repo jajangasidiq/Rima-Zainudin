@@ -1,7 +1,5 @@
 ## Template website undangan pernikahan sederhana
 
-##### Demo: https://dewanakl.github.io/undangan/?to=Teman+teman+semua
-
 ##### Deployment API: https://dikit.my.id/DeploymentUndanganAPI
 
 ### Tech stack
